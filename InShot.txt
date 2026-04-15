@@ -1,6 +1,0 @@
-{
-  "Msg": "Latest version release, download and enjoy new features!!!",
-  "downloadLink": "https://leeapk.com/inshot-mod-apk/",
-  "versionCode": 1529,
-  "status": "v2.196.1529 (Premium)"
-}
