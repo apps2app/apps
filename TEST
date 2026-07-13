@@ -1,6 +1,6 @@
 {
   "credit": "HERO",
-  "enabled": false,
+  "enabled": true,
   "title": "Update Available!",
   "points": [
     "This version may contain bugs and could stop working soon.",
