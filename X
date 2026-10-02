@@ -1,6 +1,6 @@
 {
   "Msg": "Latest version release, download and enjoy new features!!!",
   "downloadLink": "https://apps2app.com/x-twitter-mod-apk/",
-  "versionCode": 312291001,
-  "status": "v12.29.1-prod.01 (Premium)"
+  "versionCode": 312300001,
+  "status": "v12.30.0-prod.01 (Premium)"
 }
